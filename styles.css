@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-image: url("https://images.unsplash.com/photo-1627201038030-26aa532e0731?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80");
+}
+
+table{
+    border-style: solid;
+    border-width: 5px;
+    border-color:brown;
+    border-collapse: collapse;
+    background-color: black;
+    color: white;
+    box-shadow: 5px 10px;
+}
+table :hover{
+    background: #9DD9D2;
+}
+
+td  {
+    border-left: solid 2px brown;
+}
+th {
+    border-left: solid 2px brown;
+}
+tr {
+    border-bottom: solid 2px brown;
+}
+
+.topnav {
+    background-color: black;
+    float: center;
+    width: 75vw;
+    text-align: center;
+}
+
+ul {
+    
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: black;
+    color: white;
+    margin: 6 px;
+}
+
+footer{
+    color: white;
+    background-color: black;
+    padding-bottom: 5%;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+#classlist {
+    width: 50vw;
+}
